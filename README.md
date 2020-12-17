@@ -29,8 +29,13 @@
 * Когда я добавляю кубики или элементы расписания, я хочу иметь возможность задавать цвет и эмоджи, чтобы представлять свое время наглядно.  
 
 ## :house: Об архитектуре
-* ![System Context Diagram](./diagrams/ContextDiagram.pdf)  
-* ![System Container Diagram](./diagrams/ContainerDiagram.pdf)
+* [System Context Diagram](./diagrams/ContextDiagram.pdf) 
+
+![](./diagrams/context-diagram.png)
+
+* [System Container Diagram](./diagrams/ContainerDiagram.pdf)
+
+![](./diagrams/container-diagram.png)
 
 
 ## :bug: Кодирование и отладка
