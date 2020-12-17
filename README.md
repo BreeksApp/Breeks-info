@@ -38,7 +38,8 @@
 * [Сервер](https://github.com/BreeksApp/Breeks-server)
 * [Десктоп](https://github.com/BreeksApp/Breeks-desktop)  
 
-В [Сервере](https://github.com/BreeksApp/Breeks-server) описаны сборка, запуск и тестирование приложения.
+В [Сервере](https://github.com/BreeksApp/Breeks-server) описаны сборка, запуск и тестирование приложения.  
+Интеграционное тестирование покрывает первые 2 требования из **Jobs to be done**.
 
 
 ## :outbox_tray: Распространение
