@@ -4,7 +4,7 @@
 * [Сервер Breeks](https://github.com/BreeksApp/Breeks-server)
 
 ## :outbox_tray: Скачать
-* [On Windows](https://github.com/BreeksApp/Breeks-desktop/releases/download/1.0/BreeksWindowsSetup.run)
+* [On Windows](https://github.com/BreeksApp/Breeks-desktop/releases/download/1.0/BreeksWindowsSetup.exe)
 * [On Linux](https://github.com/BreeksApp/Breeks-desktop/releases/download/1.0/BreeksLinuxSetup.run)  
 
 Кроме использования исходного кода, есть возможность скачать **установщик** десктопного приложения.  
