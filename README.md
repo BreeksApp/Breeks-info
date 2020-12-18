@@ -1,5 +1,8 @@
 # Breeks-presentation
-
+Клиент-серверное приложение *для трекинга привычек и планирования*.  
+* [Десктоп Breeks](https://github.com/BreeksApp/Breeks-desktop)
+* [Сервер Breeks](https://github.com/BreeksApp/Breeks-server)
+* [Статья на хабре]()
 ## :pushpin: Проблема
 
 Как часто вы думаете о том, что **24 часов в сутках недостаточно**?  
@@ -29,8 +32,13 @@
 * Когда я добавляю кубики или элементы расписания, я хочу иметь возможность задавать цвет и эмоджи, чтобы представлять свое время наглядно.  
 
 ## :house: Об архитектуре
-* ![System Context Diagram](./diagrams/ContextDiagram.pdf)  
-* ![System Container Diagram](./diagrams/ContainerDiagram.pdf)
+* [System Context Diagram](./diagrams/ContextDiagram.pdf) 
+
+![](./diagrams/context-diagram.png)
+
+* [System Container Diagram](./diagrams/ContainerDiagram.pdf)
+
+![](./diagrams/container-diagram.png)
 
 
 ## :bug: Кодирование и отладка
@@ -38,7 +46,8 @@
 * [Сервер](https://github.com/BreeksApp/Breeks-server)
 * [Десктоп](https://github.com/BreeksApp/Breeks-desktop)  
 
-В [Сервере](https://github.com/BreeksApp/Breeks-server) описаны сборка, запуск и тестирование приложения.
+В [Сервере](https://github.com/BreeksApp/Breeks-server) описаны сборка, запуск и тестирование приложения.  
+Интеграционное тестирование покрывает первые 2 требования из **Jobs to be done**.
 
 
 ## :outbox_tray: Распространение
