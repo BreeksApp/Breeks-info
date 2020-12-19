@@ -13,7 +13,7 @@
 Сервер приложения запущен на одном из облачных сервисов.  
 
 Если вы заметили **проблемы, баги** в работе приложения, пожалуйста, сообщите нам через  
-[Google-форму](https://docs.google.com/forms/d/1DSCRm5-7I9vt1o2XaV_7x-W2kz0XpKF2BpCe4b6LuHs/edit?usp=sharing)
+[Google-форму](https://docs.google.com/forms/d/e/1FAIpQLSeZP9_-2j6I1R_DEufVUqnmE2dxooRPy56lImpiCc2S836yug/viewform)
 
 ## :pushpin: Проблема
 
