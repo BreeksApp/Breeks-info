@@ -2,6 +2,7 @@
 Клиент-серверное приложение *для трекинга привычек и планирования*.  
 * [Десктоп Breeks](https://github.com/BreeksApp/Breeks-desktop)
 * [Сервер Breeks](https://github.com/BreeksApp/Breeks-server)
+* [Статья о приложении на Medium](https://yarpylaev.medium.com/breeks-построй-свою-неделю-333cd15a6c90)
 
 ## :outbox_tray: Скачать
 * [On Windows](https://github.com/BreeksApp/Breeks-desktop/releases/download/1.0/BreeksWindowsSetup.exe)
@@ -9,7 +10,10 @@
 
 Кроме использования исходного кода, есть возможность скачать **установщик** десктопного приложения.  
 После этого вы сможете запустить приложение, зарегистрировать свой аккаунт и начать работу!  
-Сервер приложения запущен на одном из облачных сервисов.
+Сервер приложения запущен на одном из облачных сервисов.  
+
+Если вы заметили **проблемы, баги** в работе приложения, пожалуйста, сообщите нам через  
+[Google-форму](https://docs.google.com/forms/d/1DSCRm5-7I9vt1o2XaV_7x-W2kz0XpKF2BpCe4b6LuHs/edit?usp=sharing)
 
 ## :pushpin: Проблема
 
