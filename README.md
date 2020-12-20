@@ -2,6 +2,7 @@
 Клиент-серверное приложение *для трекинга привычек и планирования*.  
 * [Десктоп Breeks](https://github.com/BreeksApp/Breeks-desktop)
 * [Сервер Breeks](https://github.com/BreeksApp/Breeks-server)
+* [Статья о приложении на Хабре](https://habr.com/ru/post/534032/)
 * [Статья о приложении на Medium](https://yarpylaev.medium.com/breeks-построй-свою-неделю-333cd15a6c90)
 
 ## :outbox_tray: Скачать
