@@ -5,8 +5,8 @@
 * [Статья о приложении на Medium](https://yarpylaev.medium.com/breeks-построй-свою-неделю-333cd15a6c90)
 
 ## :outbox_tray: Скачать
-* [On Windows](https://github.com/BreeksApp/Breeks-desktop/releases/download/1.0/BreeksWindowsSetup.exe)
-* [On Linux](https://github.com/BreeksApp/Breeks-desktop/releases/download/1.0/BreeksLinuxSetup.run)  
+* [On Windows](https://github.com/BreeksApp/Breeks-desktop/releases/download/1.1/BreeksWindowsSetup.exe)
+* [On Linux](https://github.com/BreeksApp/Breeks-desktop/releases/download/1.1/BreeksLinuxSetup.run)  
 
 Кроме использования исходного кода, есть возможность скачать **установщик** десктопного приложения.  
 После этого вы сможете запустить приложение, зарегистрировать свой аккаунт и начать работу!  
