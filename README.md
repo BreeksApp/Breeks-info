@@ -1,7 +1,6 @@
 # Breeks-presentation
 Клиент-серверное приложение *для трекинга привычек и планирования*.  
 * [Десктоп Breeks](https://github.com/BreeksApp/Breeks-desktop)
-* [Сервер Breeks](https://github.com/BreeksApp/Breeks-server)
 * [Статья о приложении на Хабре](https://habr.com/ru/post/534032/)
 * [Статья о приложении на Medium](https://yarpylaev.medium.com/breeks-построй-свою-неделю-333cd15a6c90)
 
@@ -44,8 +43,7 @@
 
 
 ## :bug: Исходный код
-Результаты работы можно видеть в смежных репозиториях:
-* [Сервер](https://github.com/BreeksApp/Breeks-server)
+Результаты работы можно видеть в смежном репозитории:
 * [Десктоп](https://github.com/BreeksApp/Breeks-desktop)  
 
 В [Десктопе](https://github.com/BreeksApp/Breeks-desktop) можно рассмотреть внешний вид приложения, собрать его из исходников  
