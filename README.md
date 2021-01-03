@@ -1,4 +1,4 @@
-# Breeks-presentation
+# Breeks-info
 Клиент-серверное приложение *для трекинга привычек и планирования*.  
 * [Десктоп Breeks](https://github.com/BreeksApp/Breeks-desktop)
 * [Статья о приложении на Хабре](https://habr.com/ru/post/534032/)
